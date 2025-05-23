@@ -60,17 +60,17 @@ Key Initiatives: e-Government and National Cyber Strategy
 ##### •	Built a strong cyber defense infrastructure post-2007 cyberattacks.
 ##### •	Hosts NATO’s Cooperative Cyber Defence Centre of Excellence.
 Lesson for Bangladesh: Invest in secure digital public services and cyber resilience planning.
-4. Proposed Legal Reforms for Bangladesh
+## Proposed Legal Reforms for Bangladesh
 1.	Introduce a Comprehensive Data Protection Law
-o	Ensure consent-based data collection, user rights, and cross-border standards.
+##### o	Ensure consent-based data collection, user rights, and cross-border standards.
 2.	Clarify Definitions of Cybercrime
-o	Avoid vague terms; clearly outline acts like hacking, stalking, and identity theft.
+##### o	Avoid vague terms; clearly outline acts like hacking, stalking, and identity theft.
 3.	Develop a National Cybersecurity Framework
-o	Modeled on NIST, with mandatory reporting for critical organizations.
+##### o	Modeled on NIST, with mandatory reporting for critical organizations.
 4.	Ensure Freedom of Expression and Judicial Oversight
-o	Establish content moderation guidelines with judicial review.
+##### o	Establish content moderation guidelines with judicial review.
 5.	Strengthen Institutional Capacity
-o	Train law enforcement, establish a central cybersecurity agency, and enhance cooperation with private sector and civil society.
+##### o	Train law enforcement, establish a central cybersecurity agency, and enhance cooperation with private sector and civil society.
 ________________________________________
 ## Challenges to Reform
 ##### •	Political resistance to laws that promote freedom and accountability.
