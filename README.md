@@ -23,10 +23,10 @@ In an increasingly interconnected world, cybersecurity has become a core pillar 
 
 ## Current Cyber Law Landscape in Bangladesh
 Bangladesh currently relies on the ICT Act, 2006 and the Digital Security Act, 2018. Despite efforts to regulate digital spaces and combat cybercrime, these laws are often criticized for:
-•	Ambiguous definitions of cybercrime.
-•	Infringements on freedom of expression.
-•	Lack of comprehensive data protection legislation.
-•	Weak institutional and enforcement capacity.
+# •	Ambiguous definitions of cybercrime.
+# •	Infringements on freedom of expression.
+# •	Lack of comprehensive data protection legislation.
+# •	Weak institutional and enforcement capacity.
 ## Global Best Practices: Top Five Countries
 ## 1. European Union (EU)
 Key Legislation: General Data Protection Regulation (GDPR)
